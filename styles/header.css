@@ -25,6 +25,18 @@
     margin-left: 24px;
 }
 
+.hamburger-logo:hover,
+.youtube-logo:hover,
+.search-button:hover,
+.voice-search-button:hover,
+.upload-icon:hover,
+.youtube-apps-icon:hover,
+.notifications-icon:hover,
+.notifications-count:hover,
+.current-user-picture-icon:hover {
+    cursor: pointer;
+}
+
 .youtube-logo {
     height: 20px;
 }

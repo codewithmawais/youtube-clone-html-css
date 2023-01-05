@@ -18,7 +18,7 @@
     cursor: pointer;
 }
 
-.sidebar:hover {
+.sidebar-link:hover {
     background-color: rgb(235, 235, 235);
 }
 

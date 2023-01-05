@@ -71,3 +71,10 @@
 .video-author {
     margin-bottom: 4px;
 }
+
+.thumbnail:hover,
+.profile-picture:hover,
+.video-title:hover,
+.video-author:hover {
+    cursor: pointer;
+}
