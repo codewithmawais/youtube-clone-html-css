@@ -54,6 +54,12 @@
     border-radius: 50px;
 }
 
+.video-title-link,
+.channel-link {
+    text-decoration: none;
+    color: black;
+}
+
 .video-title {
     margin-top: 0;
     font-size: 14px;
